@@ -26,7 +26,8 @@ The application follows a client-server architecture:
 ### Backend Requirements
 - Python 3.7+
 - Chrome browser
-- ChromeDriver executable
+- ChromeDriver executable(⚠️ ChromeDriver Setup (MANDATORY)
+The application WILL NOT WORK without proper ChromeDriver setup)
 
 ### Frontend Requirements
 - Node.js 18+
